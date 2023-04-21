@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Admn/IdeaProjects/EPAM-CA4/src/test/java/org/example/WebNew.java"><classes><class name="org.example.WebNew"><methods><include name="dropdown"/><include name="checkBox"/><include name="radioButton"/><include name="selectedAndDisabledButton"/></methods></class></classes></test></suite>
